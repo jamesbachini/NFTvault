@@ -1,6 +1,5 @@
-# NFTVault Contract
-
-## Overview
+# NFTVault
+#### ERC721 > ERC20 Token Vault
 
 NFTVault is a Solidity smart contract that allows users to deposit their ERC721 NFTs into a vault in exchange for ERC20 tokens. For each NFT they deposit they get one token. These tokens can later be used to reclaim the NFTs. The contract is built using the OpenZeppelin library for ERC20 and ERC721 standards.
 
